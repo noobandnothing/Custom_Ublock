@@ -11,4 +11,4 @@ www.youtube.com###scroll-container > .ytd-feed-filter-chip-bar-renderer.style-sc
 www.youtube.com###end
 ! 2023-01-12 https://www.youtube.com
 www.youtube.com##.grid-disabled.ytd-browse.style-scope > .ytd-two-column-browse-results-renderer.style-scope
-
+www.youtube.com##ytd-mini-guide-renderer.ytd-app.style-scope
