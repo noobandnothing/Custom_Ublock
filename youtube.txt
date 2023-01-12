@@ -2,7 +2,6 @@
 www.youtube.com##.ytd-rich-section-renderer.style-scope > .ytd-rich-shelf-renderer.style-scope
 www.youtube.com###comments > .ytd-comments.style-scope
 www.youtube.com##ytd-watch-next-secondary-results-renderer.ytd-watch-flexy.style-scope > .ytd-watch-next-secondary-results-renderer.style-scope
-www.youtube.com##ytd-rich-grid-row.ytd-rich-grid-renderer.style-scope > .ytd-rich-grid-row.style-scope
 www.youtube.com###guide-icon
 www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(3)
 www.youtube.com###endpoint > .ytd-guide-entry-renderer.style-scope
@@ -10,3 +9,6 @@ www.youtube.com###guide-inner-content
 www.youtube.com###guide-content
 www.youtube.com###scroll-container > .ytd-feed-filter-chip-bar-renderer.style-scope
 www.youtube.com###end
+! 2023-01-12 https://www.youtube.com
+www.youtube.com##.grid-disabled.ytd-browse.style-scope > .ytd-two-column-browse-results-renderer.style-scope
+
